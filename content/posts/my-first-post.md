@@ -7,3 +7,5 @@ draft: true
 ## Chương 1
 
 Đây là 1 blog mới của Hiếu
+
+## Chương 2
