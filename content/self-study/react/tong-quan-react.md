@@ -1,7 +1,15 @@
 ---
 title: 'Tổng quan React'
 date: 2022-07-12T20:30:00+07:00
-draft: true
+draft: false
+slug: 'tong-quan-react'
+description: 'Giới thiệu tổng quan về thư viện React thông qua việc xây dựng ứng dụng 
+hiển thị công việc đơn giản sử dụng React và Javascript thuần.'
+summary: 'Giới thiệu tổng quan về thư viện React thông qua việc xây dựng ứng dụng 
+hiển thị công việc đơn giản sử dụng React và Javascript thuần.'
+tags:
+- React
+- Tổng quan React
 ---
 
 > A JavaScript library for building user interfaces
@@ -16,6 +24,7 @@ dụng ngôn ngữ `Javascript` thuần. Và sau đó xây dựng với thư vi�
 ## 1. Web API
 
 // TODO: Viết bài về tổng quan mô hình client - server
+
 // TODO: Viết bài về kiến trúc API
 
 Để đơn giản hóa trong dự án này, chúng ta sẽ sử dụng 1 `API` có sẵn từ

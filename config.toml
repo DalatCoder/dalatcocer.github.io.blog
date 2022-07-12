@@ -2,6 +2,11 @@ baseURL = 'https://dalatcoder.github.io/'
 languageCode = 'vi-vn'
 title = 'NTH Blog'
 theme = "ananke"
+resourceDir = "../resources"
+
+SectionPagesMenu = "main"
+Paginate = 10 
+enableRobotsTXT = true
 
 [sitemap]
   changefreq = "monthly"
@@ -10,7 +15,7 @@ theme = "ananke"
 
 [params]
   text_color = ""
-  author = "Hieu Nguyen Trong"
+  author = "Nguyễn Trọng Hiếu"
   favicon = ""
   site_logo = ""
   description = "Hieu Nguyen Trong personal blog"
@@ -18,6 +23,7 @@ theme = "ananke"
   recent_posts_number = 3
   body_classes = "avenir bg-near-white"
   post_content_classes = "helvetica"
+  show_reading_time = true
 
 [[params.ananke_socials]]
 name = "github"
