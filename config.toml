@@ -1,0 +1,4 @@
+baseURL = 'https://dalatcoder.github.io/'
+languageCode = 'en-us'
+title = 'NTH Blog'
+theme = "ananke"
